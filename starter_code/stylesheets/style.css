@@ -8,3 +8,22 @@ paragraph yellow: #ECB12F
 links blue: #2E71A6
 footer links grey: #454245
 */
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    background-color: #540B51;
+}
+
+#slack-logo {
+    width: 50%;
+}
+
+.header-section h1 {
+    color: white;
+    text-align: center;
+}
+
+#header-div1 {
+    background-color: #540B51;
+}
